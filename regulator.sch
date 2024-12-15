@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 7 7
+Sheet 6 7
 Title ""
 Date ""
 Rev ""
@@ -14,13 +14,13 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MAX20029ATIC_V+:MAX20029ATIC_V+ IC1
+L MAX20029ATIF_V+:MAX20029ATIC_V+ IC1
 U 1 1 675F18F2
 P 4400 3650
 AR Path="/675F18F2" Ref="IC1"  Part="1" 
 AR Path="/675F00E9/675F18F2" Ref="IC1"  Part="1" 
 F 0 "IC1" H 5550 4350 50  0000 L CNN
-F 1 "MAX20029ATIC_V+" H 5550 4450 50  0000 L CNN
+F 1 "MAX20029ATIF_V+" H 5550 4450 50  0000 L CNN
 F 2 "Package_DFN_QFN:TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm" H 5550 4150 50  0001 L CNN
 F 3 "https://www.mouser.jp/datasheet/2/256/Maxim_MAX20029-29B_DS_(Rev_11_2c_prelim)-1830034.pdf" H 5550 4050 50  0001 L CNN
 F 4 "Automotive Quad/Triple Low-Voltage Step-Down DC-DC Converters, TQFN-EP" H 5550 3950 50  0001 L CNN "Description"
