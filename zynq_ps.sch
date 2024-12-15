@@ -14,8 +14,8 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Simple_SDR-rescue:XC7Z007S-1CLG225C-XC7Z007S-1CLG225C U1
-U 4 1 675DABA9
+L XC7Z007S-1CLG225C:XC7Z007S-1CLG225C U1
+U 1 1 675DABA9
 P 2450 2750
 F 0 "U1" H 2400 4315 50  0000 C CNN
 F 1 "XC7Z007S-1CLG225C" H 2400 4224 50  0000 C CNN
@@ -34,7 +34,7 @@ F 13 "\\n                        \\n                            Single ARM® Cor
 F 14 "In Stock" H 2450 2750 50  0001 L BNN "Availability"
 F 15 "Bad" H 2450 2750 50  0001 L BNN "AVAILABILITY"
 F 16 "Xilinx" H 2450 2750 50  0001 L BNN "MANUFACTURER"
-	4    2450 2750
+	1    2450 2750
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

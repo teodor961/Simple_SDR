@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Simple_SDR-rescue:MAX20029ATIC_V+-MAX20029ATIC_V+ IC1
+L MAX20029ATIC_V+:MAX20029ATIC_V+ IC1
 U 1 1 675F18F2
 P 4400 3650
 AR Path="/675F18F2" Ref="IC1"  Part="1" 

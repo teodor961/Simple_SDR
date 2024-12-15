@@ -32,12 +32,6 @@ F0 "zynq_power" 50
 F1 "zynq_power.sch" 50
 $EndSheet
 $Sheet
-S 6150 1900 1150 1600
-U 675D4290
-F0 "zynq_gnd" 50
-F1 "zynq_gnd.sch" 50
-$EndSheet
-$Sheet
 S 1500 3900 1300 1650
 U 675F2D5C
 F0 "zynq_ddr" 50
@@ -48,5 +42,11 @@ S 3300 3900 1150 1650
 U 675F00E9
 F0 "regulator" 50
 F1 "regulator.sch" 50
+$EndSheet
+$Sheet
+S 6300 1900 1150 1600
+U 675F31B2
+F0 "zynq_gnd" 50
+F1 "zynq_gnd.sch" 50
 $EndSheet
 $EndSCHEMATC
