@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 7
+Sheet 1 8
 Title ""
 Date ""
 Rev ""
@@ -48,5 +48,11 @@ S 6300 1900 1150 1600
 U 675F31B2
 F0 "zynq_gnd" 50
 F1 "zynq_gnd.sch" 50
+$EndSheet
+$Sheet
+S 4800 3900 1100 1650
+U 675F7864
+F0 "ddr3l_main" 50
+F1 "ddr3l_main.sch" 50
 $EndSheet
 $EndSCHEMATC

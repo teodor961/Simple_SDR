@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 6 7
+Sheet 6 8
 Title ""
 Date ""
 Rev ""
@@ -203,4 +203,15 @@ Connection ~ 3450 2750
 Wire Wire Line
 	3450 2750 4050 2750
 Connection ~ 4050 2750
+$Comp
+L Device:L L?
+U 1 1 675F5ED4
+P 6300 3300
+F 0 "L?" V 6490 3300 50  0000 C CNN
+F 1 "1u5" V 6399 3300 50  0000 C CNN
+F 2 "" H 6300 3300 50  0001 C CNN
+F 3 "~" H 6300 3300 50  0001 C CNN
+	1    6300 3300
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
