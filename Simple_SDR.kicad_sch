@@ -1,0 +1,279 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "006caa78-17ed-4ca3-959e-671c147c0629")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 38.1 49.53)
+		(size 31.75 39.37)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-0000675d3f2f")
+		(property "Sheetname" "zynq_ps"
+			(at 38.1 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "zynq_ps.kicad_sch"
+			(at 38.1 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Simple_SDR"
+				(path "/006caa78-17ed-4ca3-959e-671c147c0629"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 48.26)
+		(size 27.94 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-0000675d3fd9")
+		(property "Sheetname" "zynq_pl"
+			(at 85.09 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "zynq_pl.kicad_sch"
+			(at 85.09 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Simple_SDR"
+				(path "/006caa78-17ed-4ca3-959e-671c147c0629"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 48.26)
+		(size 27.94 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-0000675d410d")
+		(property "Sheetname" "zynq_power"
+			(at 121.92 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "zynq_power.kicad_sch"
+			(at 121.92 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Simple_SDR"
+				(path "/006caa78-17ed-4ca3-959e-671c147c0629"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 83.82 99.06)
+		(size 29.21 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-0000675f00e9")
+		(property "Sheetname" "regulator"
+			(at 83.82 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "regulator.kicad_sch"
+			(at 83.82 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Simple_SDR"
+				(path "/006caa78-17ed-4ca3-959e-671c147c0629"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 99.06)
+		(size 33.02 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-0000675f2d5c")
+		(property "Sheetname" "zynq_ddr"
+			(at 38.1 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "zynq_ddr.kicad_sch"
+			(at 38.1 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Simple_SDR"
+				(path "/006caa78-17ed-4ca3-959e-671c147c0629"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 48.26)
+		(size 29.21 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-0000675f31b2")
+		(property "Sheetname" "zynq_gnd"
+			(at 160.02 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "zynq_gnd.kicad_sch"
+			(at 160.02 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Simple_SDR"
+				(path "/006caa78-17ed-4ca3-959e-671c147c0629"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 99.06)
+		(size 27.94 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-0000675f7864")
+		(property "Sheetname" "ddr3l_main"
+			(at 121.92 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ddr3l_main.kicad_sch"
+			(at 121.92 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Simple_SDR"
+				(path "/006caa78-17ed-4ca3-959e-671c147c0629"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
