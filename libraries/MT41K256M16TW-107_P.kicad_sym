@@ -126,7 +126,7 @@
 		)
 		(symbol "MT41K256M16TW-107_P_1_0"
 			(pin passive line
-				(at 0 -2.54 0)
+				(at 35.56 -35.56 180)
 				(length 5.08)
 				(name "DQ13"
 					(effects
@@ -144,7 +144,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -5.08 0)
+				(at 35.56 -40.64 180)
 				(length 5.08)
 				(name "DQ15"
 					(effects
@@ -162,7 +162,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -7.62 0)
+				(at 35.56 -33.02 180)
 				(length 5.08)
 				(name "DQ12"
 					(effects
@@ -180,7 +180,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -22.86 0)
+				(at 35.56 -63.5 180)
 				(length 5.08)
 				(name "UDQS#"
 					(effects
@@ -198,7 +198,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -25.4 0)
+				(at 35.56 -38.1 180)
 				(length 5.08)
 				(name "DQ14"
 					(effects
@@ -216,7 +216,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -33.02 0)
+				(at 35.56 -30.48 180)
 				(length 5.08)
 				(name "DQ11"
 					(effects
@@ -234,7 +234,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -35.56 0)
+				(at 35.56 -25.4 180)
 				(length 5.08)
 				(name "DQ9"
 					(effects
@@ -252,7 +252,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -38.1 0)
+				(at 35.56 -60.96 180)
 				(length 5.08)
 				(name "UDQS"
 					(effects
@@ -270,7 +270,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -40.64 0)
+				(at 35.56 -27.94 180)
 				(length 5.08)
 				(name "DQ10"
 					(effects
@@ -288,7 +288,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -50.8 0)
+				(at 35.56 -71.12 180)
 				(length 5.08)
 				(name "UDM"
 					(effects
@@ -306,7 +306,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -53.34 0)
+				(at 35.56 -22.86 180)
 				(length 5.08)
 				(name "DQ8"
 					(effects
@@ -324,7 +324,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -66.04 0)
+				(at 35.56 -2.54 180)
 				(length 5.08)
 				(name "DQ0"
 					(effects
@@ -342,7 +342,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -68.58 0)
+				(at 35.56 -68.58 180)
 				(length 5.08)
 				(name "LDM"
 					(effects
@@ -360,7 +360,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -78.74 0)
+				(at 35.56 -7.62 180)
 				(length 5.08)
 				(name "DQ2"
 					(effects
@@ -378,7 +378,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -81.28 0)
+				(at 35.56 -53.34 180)
 				(length 5.08)
 				(name "LDQS"
 					(effects
@@ -396,7 +396,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -83.82 0)
+				(at 35.56 -5.08 180)
 				(length 5.08)
 				(name "DQ1"
 					(effects
@@ -414,7 +414,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -86.36 0)
+				(at 35.56 -10.16 180)
 				(length 5.08)
 				(name "DQ3"
 					(effects
@@ -432,7 +432,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -93.98 0)
+				(at 35.56 -17.78 180)
 				(length 5.08)
 				(name "DQ6"
 					(effects
@@ -450,7 +450,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -96.52 0)
+				(at 35.56 -55.88 180)
 				(length 5.08)
 				(name "LDQS#"
 					(effects
@@ -468,25 +468,7 @@
 				)
 			)
 			(pin passive line
-				(at -55.88 -74.93 0)
-				(length 5.08)
-				(name "VREFDQ"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "H1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -111.76 0)
+				(at 35.56 -12.7 180)
 				(length 5.08)
 				(name "DQ4"
 					(effects
@@ -504,7 +486,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -114.3 0)
+				(at 35.56 -20.32 180)
 				(length 5.08)
 				(name "DQ7"
 					(effects
@@ -522,7 +504,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -116.84 0)
+				(at 35.56 -15.24 180)
 				(length 5.08)
 				(name "DQ5"
 					(effects
@@ -540,25 +522,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 0 180)
-				(length 5.08)
-				(name "NC_1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "J1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 35.56 -5.08 180)
+				(at 0 -67.31 0)
 				(length 5.08)
 				(name "RAS#"
 					(effects
@@ -576,7 +540,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -7.62 180)
+				(at 0 -55.88 0)
 				(length 5.08)
 				(name "CK"
 					(effects
@@ -594,25 +558,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -12.7 180)
-				(length 5.08)
-				(name "NC_2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "J9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 35.56 -15.24 180)
+				(at 0 -80.01 0)
 				(length 5.08)
 				(name "ODT"
 					(effects
@@ -630,7 +576,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -20.32 180)
+				(at 0 -69.85 0)
 				(length 5.08)
 				(name "CAS#"
 					(effects
@@ -648,7 +594,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -22.86 180)
+				(at 0 -58.42 0)
 				(length 5.08)
 				(name "CK#"
 					(effects
@@ -666,7 +612,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -27.94 180)
+				(at 0 -60.96 0)
 				(length 5.08)
 				(name "CKE"
 					(effects
@@ -684,25 +630,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -30.48 180)
-				(length 5.08)
-				(name "NC_3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "L1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 35.56 -33.02 180)
+				(at 0 -74.93 0)
 				(length 5.08)
 				(name "CS#"
 					(effects
@@ -720,7 +648,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -35.56 180)
+				(at 0 -72.39 0)
 				(length 5.08)
 				(name "WE#"
 					(effects
@@ -738,7 +666,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -38.1 180)
+				(at 0 -27.94 0)
 				(length 5.08)
 				(name "A10/AP"
 					(effects
@@ -756,7 +684,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -40.64 180)
+				(at 35.56 -80.01 180)
 				(length 5.08)
 				(name "ZQ"
 					(effects
@@ -774,25 +702,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -43.18 180)
-				(length 5.08)
-				(name "NC_4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "L9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 35.56 -48.26 180)
+				(at 0 -44.45 0)
 				(length 5.08)
 				(name "BA0"
 					(effects
@@ -810,7 +720,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -50.8 180)
+				(at 0 -49.53 0)
 				(length 5.08)
 				(name "BA2"
 					(effects
@@ -828,43 +738,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -53.34 180)
-				(length 5.08)
-				(name "NC_5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "M7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -46.99 -69.85 180)
-				(length 5.08)
-				(name "VREFCA"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "M8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 35.56 -63.5 180)
+				(at 0 -10.16 0)
 				(length 5.08)
 				(name "A3"
 					(effects
@@ -882,7 +756,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -66.04 180)
+				(at 0 -2.54 0)
 				(length 5.08)
 				(name "A0"
 					(effects
@@ -900,7 +774,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -68.58 180)
+				(at 0 -33.02 0)
 				(length 5.08)
 				(name "A12/BC#"
 					(effects
@@ -918,7 +792,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -71.12 180)
+				(at 0 -46.99 0)
 				(length 5.08)
 				(name "BA1"
 					(effects
@@ -936,7 +810,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -78.74 180)
+				(at 0 -15.24 0)
 				(length 5.08)
 				(name "A5"
 					(effects
@@ -954,7 +828,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -81.28 180)
+				(at 0 -7.62 0)
 				(length 5.08)
 				(name "A2"
 					(effects
@@ -972,7 +846,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -83.82 180)
+				(at 0 -5.08 0)
 				(length 5.08)
 				(name "A1"
 					(effects
@@ -990,7 +864,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -86.36 180)
+				(at 0 -12.7 0)
 				(length 5.08)
 				(name "A4"
 					(effects
@@ -1008,7 +882,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -93.98 180)
+				(at 0 -20.32 0)
 				(length 5.08)
 				(name "A7"
 					(effects
@@ -1026,7 +900,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -96.52 180)
+				(at 0 -25.4 0)
 				(length 5.08)
 				(name "A9"
 					(effects
@@ -1044,7 +918,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -99.06 180)
+				(at 0 -30.48 0)
 				(length 5.08)
 				(name "A11"
 					(effects
@@ -1062,7 +936,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -101.6 180)
+				(at 0 -17.78 0)
 				(length 5.08)
 				(name "A6"
 					(effects
@@ -1080,7 +954,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -109.22 180)
+				(at 35.56 -77.47 180)
 				(length 5.08)
 				(name "RESET#"
 					(effects
@@ -1098,7 +972,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -111.76 180)
+				(at 0 -35.56 0)
 				(length 5.08)
 				(name "A13"
 					(effects
@@ -1116,7 +990,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -114.3 180)
+				(at 0 -38.1 0)
 				(length 5.08)
 				(name "A14"
 					(effects
@@ -1134,7 +1008,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -116.84 180)
+				(at 0 -22.86 0)
 				(length 5.08)
 				(name "A8"
 					(effects
@@ -1155,7 +1029,7 @@
 		(symbol "MT41K256M16TW-107_P_1_1"
 			(rectangle
 				(start 5.08 1.27)
-				(end 30.48 -120.65)
+				(end 30.48 -83.82)
 				(stroke
 					(width 0)
 					(type default)
