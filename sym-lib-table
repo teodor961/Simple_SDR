@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MT41K256M16TW-107_P")(type "KiCad")(uri "${KIPRJMOD}/libraries/MT41K256M16TW-107_P.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX20029ATIF_V+")(type "KiCad")(uri "${KIPRJMOD}/libraries/MAX20029ATIF_V+.kicad_sym")(options "")(descr ""))
+  (lib (name "XC7Z007S-1CLG225C")(type "KiCad")(uri "${KIPRJMOD}/libraries/XC7Z007S-1CLG225C.kicad_sym")(options "")(descr ""))
+  (lib (name "NCP51200AMNTXG")(type "KiCad")(uri "${KIPRJMOD}/libraries/NCP51200AMNTXG.kicad_sym")(options "")(descr ""))
+)
