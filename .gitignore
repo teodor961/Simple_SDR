@@ -1,3 +1,5 @@
 Documents/*
 *cache*
-*-bak*
+*-backup*
+*.bak
+*.lck
