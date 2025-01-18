@@ -50,16 +50,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Xilinx Inc."
+			(property "Description" "FPGA Zynq-7000 Family 23000 Cells 667MHz 28nm 1V 225-Pin WCBGA Tray"
 				(at 0 0 0)
 				(effects
 					(font
@@ -69,7 +60,7 @@
 					(hide yes)
 				)
 			)
-			(property "DESCRIPTION" "FPGA Zynq-7000 Family 23000 Cells 667MHz 28nm 1V 225-Pin WCBGA Tray"
+			(property "MF" "Xilinx Inc."
 				(at 0 0 0)
 				(effects
 					(font
