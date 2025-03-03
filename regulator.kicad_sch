@@ -504,7 +504,7 @@
 					)
 				)
 				(pin passive line
-					(at 33.02 -11.43 180)
+					(at 33.02 -13.97 180)
 					(length 5.08)
 					(name "OUTS3"
 						(effects
@@ -540,7 +540,7 @@
 					)
 				)
 				(pin passive line
-					(at 33.02 -13.97 180)
+					(at 33.02 -11.43 180)
 					(length 5.08)
 					(name "LX3"
 						(effects
@@ -594,7 +594,7 @@
 					)
 				)
 				(pin passive line
-					(at 33.02 -24.13 180)
+					(at 33.02 -21.59 180)
 					(length 5.08)
 					(name "LX4"
 						(effects
@@ -666,7 +666,7 @@
 					)
 				)
 				(pin passive line
-					(at 33.02 -21.59 180)
+					(at 33.02 -24.13 180)
 					(length 5.08)
 					(name "OUTS4"
 						(effects
@@ -864,7 +864,7 @@
 					)
 				)
 				(pin passive line
-					(at 33.02 -3.81 180)
+					(at 33.02 -1.27 180)
 					(length 5.08)
 					(name "LX2"
 						(effects
@@ -900,7 +900,7 @@
 					)
 				)
 				(pin passive line
-					(at 33.02 -1.27 180)
+					(at 33.02 -3.81 180)
 					(length 5.08)
 					(name "OUTS2"
 						(effects
