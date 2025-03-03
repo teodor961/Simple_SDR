@@ -41,3 +41,24 @@ Iccintq_incr  = 0.040;
 Iccauxq_incr  = 0.060;
 Iccoq_incr    = 0.090;
 Iccbramq_incr = 0.040;
+
+% List of MAX20029ATIF_V+ output voltages and currents
+%-------------------------------------------------
+V_out1 = 1.0;
+V_out2 = 1.8;
+V_out3 = 1.35;
+V_out4 = 3.3;
+
+%% Current consumer list
+%-------------------------------------------------
+R_led_pg = 330;
+I_led_pg = V_out4/R_led_pg;
+
+% List of MAX20029ATIF_V+ output currents
+%-------------------------------------------------
+I_reg_absmax = 1.5;
+
+I_out1 = ;
+I_out2 = ;
+I_out3 = ;
+I_out4 = ;
