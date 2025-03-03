@@ -40,11 +40,16 @@ for i = 1:length(R_table)
 end
 
 Vout_actual = Vouts*(R1 + R2)/R2;
+C = 15e-12;
+C1 = C*(R2/R1);
 
 display("closest value:");
 display(closest_value);
 display("Resistor values R1, R2:");
 display([R1, R2]);
+
+display("Capacitor value, C1:");
+display(C1);
 
 display("Actual Vout voltage:");
 display(Vout_actual);
